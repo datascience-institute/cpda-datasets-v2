@@ -1,0 +1,171 @@
+[
+  {
+    "unit": "Unit 1 Python for Data Analysis",
+    "lesson": "L1 Python Environment and First Programs",
+    "files": {
+      "python_installation_survey.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L1-Python-Environment-and-First-Programs/datasets/python_installation_survey.csv"
+    }
+  },
+  {
+    "unit": "Unit 1 Python for Data Analysis",
+    "lesson": "L3 Libraries and pandas Data Structures",
+    "files": {
+      "student_profiles.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L3-Libraries-and-pandas-Data-Structures/datasets/student_profiles.csv"
+    }
+  },
+  {
+    "unit": "Unit 1 Python for Data Analysis",
+    "lesson": "L4 Numeric and String Functions",
+    "files": {
+      "numeric_operations.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L4-Numeric-and-String-Functions/datasets/numeric_operations.csv"
+    }
+  },
+  {
+    "unit": "Unit 1 Python for Data Analysis",
+    "lesson": "L5 Control Flow - Conditionals and Loops",
+    "files": {
+      "student_loops.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L5-Control-Flow-Conditionals-and-Loops/datasets/student_loops.csv"
+    }
+  },
+  {
+    "unit": "Unit 1 Python for Data Analysis",
+    "lesson": "L6 Files, Directories, Dates and Times",
+    "files": {
+      "filesystem_operations.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L6-Files-Directories-Dates-and-Times/datasets/filesystem_operations.csv"
+    }
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L1 Importing Data",
+    "files": {
+      "east.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L1-Importing-Data/datasets/east.csv",
+      "north.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L1-Importing-Data/datasets/north.csv",
+      "retail_transactions.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L1-Importing-Data/datasets/retail_transactions.csv",
+      "south.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L1-Importing-Data/datasets/south.csv",
+      "west.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L1-Importing-Data/datasets/west.csv"
+    }
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L2 Checking Data Features and Modifying Data",
+    "files": {
+      "customer_churn.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L2-Checking-Data-Features-and-Modifying-Data/datasets/customer_churn.csv"
+    }
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L3 Creating Subsets and Sorting Data",
+    "files": {
+      "consumerpreference.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L3-Creating-Subsets-and-Sorting-Data/datasets/consumerpreference.csv"
+    }
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L4 Merging and Aggregating",
+    "files": {
+      "basic_salary - 1.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L4-Merging-and-Aggregating/datasets/basic_salary%20-%201.csv",
+      "basic_salary - 2.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L4-Merging-and-Aggregating/datasets/basic_salary%20-%202.csv",
+      "basic_salary.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L4-Merging-and-Aggregating/datasets/basic_salary.csv",
+      "bonus_data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L4-Merging-and-Aggregating/datasets/bonus_data.csv"
+    }
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L5 Handling Missing Values",
+    "files": {
+      "basic_salary.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L5-Handling-Missing-Values/datasets/basic_salary.csv",
+      "consumerpreference.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L5-Handling-Missing-Values/datasets/consumerpreference.csv"
+    }
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L6 Building an ETL Workflow",
+    "files": {
+      "retail_transactions.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L6-Building-an-ETL-Workflow/datasets/retail_transactions.csv"
+    }
+  },
+  {
+    "unit": "Unit 3 Descriptive Statistics",
+    "lesson": "L1 Descriptive Statistics in Python",
+    "files": {
+      "Retail_Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L1-Descriptive-Statistics-in-Python/datasets/Retail_Data.csv"
+    }
+  },
+  {
+    "unit": "Unit 3 Descriptive Statistics",
+    "lesson": "L2 Beyond Mean and Variance",
+    "files": {
+      "Retail_Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L2-Beyond-Mean-and-Variance/datasets/Retail_Data.csv"
+    }
+  },
+  {
+    "unit": "Unit 3 Descriptive Statistics",
+    "lesson": "L3 Bivariate Relationships",
+    "files": {
+      "Job_Proficiency.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L3-Bivariate-Relationships/datasets/Job_Proficiency.csv"
+    }
+  },
+  {
+    "unit": "Unit 3 Descriptive Statistics",
+    "lesson": "L4 Automated EDA Libraries",
+    "files": {
+      "Retail_Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L4-Automated-EDA-Libraries/datasets/Retail_Data.csv"
+    }
+  },
+  {
+    "unit": "Unit 3 Descriptive Statistics",
+    "lesson": "L5 Sampling Methods for Research",
+    "files": {
+      "survey_respondents.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L5-Sampling-Methods-for-Research/datasets/survey_respondents.csv"
+    }
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L1 Foundations of Statistical Inference",
+    "files": {
+      "Normality Testing Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L1-Foundations-of-Statistical-Inference/datasets/Normality%20Testing%20Data.csv"
+    }
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L2 Checking Assumptions",
+    "files": {
+      "F test for 2 variances.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L2-Checking-Assumptions/datasets/F%20test%20for%202%20variances.csv",
+      "Normality Testing Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L2-Checking-Assumptions/datasets/Normality%20Testing%20Data.csv"
+    }
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L3 Comparing Means with t-tests",
+    "files": {
+      "INDEPENDENT SAMPLES t TEST.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L3-Comparing-Means-with-t-tests/datasets/INDEPENDENT%20SAMPLES%20t%20TEST.csv",
+      "ONE SAMPLE t TEST.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L3-Comparing-Means-with-t-tests/datasets/ONE%20SAMPLE%20t%20TEST.csv",
+      "PAIRED t TEST.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L3-Comparing-Means-with-t-tests/datasets/PAIRED%20t%20TEST.csv"
+    }
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L4 Analysis of Variance",
+    "files": {
+      "One way anova.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L4-Analysis-of-Variance/datasets/One%20way%20anova.csv",
+      "Two way anova.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L4-Analysis-of-Variance/datasets/Two%20way%20anova.csv"
+    }
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L5 Non-Parametric Tests",
+    "files": {
+      "Kruskal Wallis Test.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L5-Non-Parametric-Tests/datasets/Kruskal%20Wallis%20Test.csv",
+      "Mann Whitney test.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L5-Non-Parametric-Tests/datasets/Mann%20Whitney%20test.csv",
+      "Wilcoxon Signed Rank test for paired data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L5-Non-Parametric-Tests/datasets/Wilcoxon%20Signed%20Rank%20test%20for%20paired%20data.csv"
+    }
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L6 Choosing the Right Test and Categorical Association",
+    "files": {
+      "Correlation test.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L6-Choosing-the-Right-Test-and-Categorical-Association/datasets/Correlation%20test.csv",
+      "chi square test of association.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L6-Choosing-the-Right-Test-and-Categorical-Association/datasets/chi%20square%20test%20of%20association.csv"
+    }
+  }
+]

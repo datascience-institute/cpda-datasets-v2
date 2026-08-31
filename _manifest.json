@@ -1,0 +1,193 @@
+[
+  {
+    "unit": "Unit 1 Python for Data Analysis",
+    "lesson": "L1 Python Environment and First Programs",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L1-Python-Environment-and-First-Programs/datasets",
+    "files": [
+      "python_installation_survey.csv"
+    ]
+  },
+  {
+    "unit": "Unit 1 Python for Data Analysis",
+    "lesson": "L3 Libraries and pandas Data Structures",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L3-Libraries-and-pandas-Data-Structures/datasets",
+    "files": [
+      "student_profiles.csv"
+    ]
+  },
+  {
+    "unit": "Unit 1 Python for Data Analysis",
+    "lesson": "L4 Numeric and String Functions",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L4-Numeric-and-String-Functions/datasets",
+    "files": [
+      "numeric_operations.csv"
+    ]
+  },
+  {
+    "unit": "Unit 1 Python for Data Analysis",
+    "lesson": "L5 Control Flow - Conditionals and Loops",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L5-Control-Flow-Conditionals-and-Loops/datasets",
+    "files": [
+      "student_loops.csv"
+    ]
+  },
+  {
+    "unit": "Unit 1 Python for Data Analysis",
+    "lesson": "L6 Files, Directories, Dates and Times",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L6-Files-Directories-Dates-and-Times/datasets",
+    "files": [
+      "filesystem_operations.csv"
+    ]
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L1 Importing Data",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L1-Importing-Data/datasets",
+    "files": [
+      "east.csv",
+      "north.csv",
+      "retail_transactions.csv",
+      "south.csv",
+      "west.csv"
+    ]
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L2 Checking Data Features and Modifying Data",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L2-Checking-Data-Features-and-Modifying-Data/datasets",
+    "files": [
+      "customer_churn.csv"
+    ]
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L3 Creating Subsets and Sorting Data",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L3-Creating-Subsets-and-Sorting-Data/datasets",
+    "files": [
+      "consumerpreference.csv"
+    ]
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L4 Merging and Aggregating",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L4-Merging-and-Aggregating/datasets",
+    "files": [
+      "basic_salary - 1.csv",
+      "basic_salary - 2.csv",
+      "basic_salary.csv",
+      "bonus_data.csv"
+    ]
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L5 Handling Missing Values",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L5-Handling-Missing-Values/datasets",
+    "files": [
+      "basic_salary.csv",
+      "consumerpreference.csv"
+    ]
+  },
+  {
+    "unit": "Unit 2 Data Management",
+    "lesson": "L6 Building an ETL Workflow",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L6-Building-an-ETL-Workflow/datasets",
+    "files": [
+      "retail_transactions.csv"
+    ]
+  },
+  {
+    "unit": "Unit 3 Descriptive Statistics",
+    "lesson": "L1 Descriptive Statistics in Python",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L1-Descriptive-Statistics-in-Python/datasets",
+    "files": [
+      "Retail_Data.csv"
+    ]
+  },
+  {
+    "unit": "Unit 3 Descriptive Statistics",
+    "lesson": "L2 Beyond Mean and Variance",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L2-Beyond-Mean-and-Variance/datasets",
+    "files": [
+      "Retail_Data.csv"
+    ]
+  },
+  {
+    "unit": "Unit 3 Descriptive Statistics",
+    "lesson": "L3 Bivariate Relationships",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L3-Bivariate-Relationships/datasets",
+    "files": [
+      "Job_Proficiency.csv"
+    ]
+  },
+  {
+    "unit": "Unit 3 Descriptive Statistics",
+    "lesson": "L4 Automated EDA Libraries",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L4-Automated-EDA-Libraries/datasets",
+    "files": [
+      "Retail_Data.csv"
+    ]
+  },
+  {
+    "unit": "Unit 3 Descriptive Statistics",
+    "lesson": "L5 Sampling Methods for Research",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L5-Sampling-Methods-for-Research/datasets",
+    "files": [
+      "survey_respondents.csv"
+    ]
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L1 Foundations of Statistical Inference",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L1-Foundations-of-Statistical-Inference/datasets",
+    "files": [
+      "Normality Testing Data.csv"
+    ]
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L2 Checking Assumptions",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L2-Checking-Assumptions/datasets",
+    "files": [
+      "F test for 2 variances.csv",
+      "Normality Testing Data.csv"
+    ]
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L3 Comparing Means with t-tests",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L3-Comparing-Means-with-t-tests/datasets",
+    "files": [
+      "INDEPENDENT SAMPLES t TEST.csv",
+      "ONE SAMPLE t TEST.csv",
+      "PAIRED t TEST.csv"
+    ]
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L4 Analysis of Variance",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L4-Analysis-of-Variance/datasets",
+    "files": [
+      "One way anova.csv",
+      "Two way anova.csv"
+    ]
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L5 Non-Parametric Tests",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L5-Non-Parametric-Tests/datasets",
+    "files": [
+      "Kruskal Wallis Test.csv",
+      "Mann Whitney test.csv",
+      "Wilcoxon Signed Rank test for paired data.csv"
+    ]
+  },
+  {
+    "unit": "Unit 4 Inferential Statistics",
+    "lesson": "L6 Choosing the Right Test and Categorical Association",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L6-Choosing-the-Right-Test-and-Categorical-Association/datasets",
+    "files": [
+      "Correlation test.csv",
+      "chi square test of association.csv"
+    ]
+  }
+]
