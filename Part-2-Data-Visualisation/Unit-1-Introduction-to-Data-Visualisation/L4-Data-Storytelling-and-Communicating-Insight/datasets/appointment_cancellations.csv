@@ -1,0 +1,13 @@
+Month,Year,ScheduledAppointments,CancelledAppointments,ShortNoticeCancellations,AdvanceCancellations,CancellationRatePct
+Jan,2025,1280,105,47,58,8.2
+Feb,2025,1240,98,45,53,7.9
+Mar,2025,1310,118,58,60,9.0
+Apr,2025,1295,131,68,63,10.1
+May,2025,1330,149,82,67,11.2
+Jun,2025,1305,154,89,65,11.8
+Jul,2025,1288,169,103,66,13.1
+Aug,2025,1270,177,113,64,13.9
+Sep,2025,1342,196,129,67,14.6
+Oct,2025,1360,205,139,66,15.1
+Nov,2025,1338,199,137,62,14.9
+Dec,2025,1315,205,144,61,15.6

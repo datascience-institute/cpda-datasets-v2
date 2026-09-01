@@ -1,5 +1,6 @@
 [
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 1 Python for Data Analysis",
     "lesson": "L1 Python Environment and First Programs",
     "files": {
@@ -7,6 +8,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 1 Python for Data Analysis",
     "lesson": "L3 Libraries and pandas Data Structures",
     "files": {
@@ -14,6 +16,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 1 Python for Data Analysis",
     "lesson": "L4 Numeric and String Functions",
     "files": {
@@ -21,20 +24,23 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 1 Python for Data Analysis",
-    "lesson": "L5 Control Flow - Conditionals and Loops",
+    "lesson": "L5 Control Flow Conditionals and Loops",
     "files": {
       "student_loops.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L5-Control-Flow-Conditionals-and-Loops/datasets/student_loops.csv"
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 1 Python for Data Analysis",
-    "lesson": "L6 Files, Directories, Dates and Times",
+    "lesson": "L6 Files Directories Dates and Times",
     "files": {
       "filesystem_operations.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L6-Files-Directories-Dates-and-Times/datasets/filesystem_operations.csv"
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L1 Importing Data",
     "files": {
@@ -46,6 +52,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L2 Checking Data Features and Modifying Data",
     "files": {
@@ -53,6 +60,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L3 Creating Subsets and Sorting Data",
     "files": {
@@ -60,6 +68,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L4 Merging and Aggregating",
     "files": {
@@ -70,6 +79,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L5 Handling Missing Values",
     "files": {
@@ -78,6 +88,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L6 Building an ETL Workflow",
     "files": {
@@ -85,6 +96,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 3 Descriptive Statistics",
     "lesson": "L1 Descriptive Statistics in Python",
     "files": {
@@ -92,6 +104,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 3 Descriptive Statistics",
     "lesson": "L2 Beyond Mean and Variance",
     "files": {
@@ -99,6 +112,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 3 Descriptive Statistics",
     "lesson": "L3 Bivariate Relationships",
     "files": {
@@ -106,6 +120,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 3 Descriptive Statistics",
     "lesson": "L4 Automated EDA Libraries",
     "files": {
@@ -113,6 +128,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 3 Descriptive Statistics",
     "lesson": "L5 Sampling Methods for Research",
     "files": {
@@ -120,6 +136,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
     "lesson": "L1 Foundations of Statistical Inference",
     "files": {
@@ -127,6 +144,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
     "lesson": "L2 Checking Assumptions",
     "files": {
@@ -135,8 +153,9 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
-    "lesson": "L3 Comparing Means with t-tests",
+    "lesson": "L3 Comparing Means with t tests",
     "files": {
       "INDEPENDENT SAMPLES t TEST.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L3-Comparing-Means-with-t-tests/datasets/INDEPENDENT%20SAMPLES%20t%20TEST.csv",
       "ONE SAMPLE t TEST.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L3-Comparing-Means-with-t-tests/datasets/ONE%20SAMPLE%20t%20TEST.csv",
@@ -144,6 +163,7 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
     "lesson": "L4 Analysis of Variance",
     "files": {
@@ -152,8 +172,9 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
-    "lesson": "L5 Non-Parametric Tests",
+    "lesson": "L5 Non Parametric Tests",
     "files": {
       "Kruskal Wallis Test.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L5-Non-Parametric-Tests/datasets/Kruskal%20Wallis%20Test.csv",
       "Mann Whitney test.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L5-Non-Parametric-Tests/datasets/Mann%20Whitney%20test.csv",
@@ -161,11 +182,289 @@
     }
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
     "lesson": "L6 Choosing the Right Test and Categorical Association",
     "files": {
       "Correlation test.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L6-Choosing-the-Right-Test-and-Categorical-Association/datasets/Correlation%20test.csv",
       "chi square test of association.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L6-Choosing-the-Right-Test-and-Categorical-Association/datasets/chi%20square%20test%20of%20association.csv"
+    }
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 1 Introduction to Data Visualisation",
+    "lesson": "L1 Why Visualisation Matters and Choosing the Right Chart",
+    "files": {
+      "monthly_sales.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Unit-1-Introduction-to-Data-Visualisation/L1-Why-Visualisation-Matters-and-Choosing-the-Right-Chart/datasets/monthly_sales.csv"
+    }
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 1 Introduction to Data Visualisation",
+    "lesson": "L2 Design Principles for Clarity and Credibility",
+    "files": {
+      "company_sales.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Unit-1-Introduction-to-Data-Visualisation/L2-Design-Principles-for-Clarity-and-Credibility/datasets/company_sales.csv"
+    }
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 1 Introduction to Data Visualisation",
+    "lesson": "L3 Avoiding Misleading and Low Quality Visuals",
+    "files": {
+      "visualization_survey.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Unit-1-Introduction-to-Data-Visualisation/L3-Avoiding-Misleading-and-Low-Quality-Visuals/datasets/visualization_survey.csv"
+    }
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 1 Introduction to Data Visualisation",
+    "lesson": "L4 Data Storytelling and Communicating Insight",
+    "files": {
+      "appointment_cancellations.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Unit-1-Introduction-to-Data-Visualisation/L4-Data-Storytelling-and-Communicating-Insight/datasets/appointment_cancellations.csv"
+    }
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 2 Data Visualisation Using Python",
+    "lesson": "L1 Categorical and Composition Charts",
+    "files": {
+      "telecom_profile.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L1-Categorical-and-Composition-Charts/datasets/telecom_profile.csv"
+    }
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 2 Data Visualisation Using Python",
+    "lesson": "L2 Distribution Plots",
+    "files": {
+      "telecom_usage.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L2-Distribution-Plots/datasets/telecom_usage.csv"
+    }
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 2 Data Visualisation Using Python",
+    "lesson": "L3 Visualising Relationships",
+    "files": {
+      "employee_proficiency.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L3-Visualising-Relationships/datasets/employee_proficiency.csv"
+    }
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 2 Data Visualisation Using Python",
+    "lesson": "L4 Chart Ready Summaries and Formatting for Communication",
+    "files": {
+      "meter_readings.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L4-Chart-Ready-Summaries-and-Formatting-for-Communication/datasets/meter_readings.csv",
+      "telecom_usage.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L4-Chart-Ready-Summaries-and-Formatting-for-Communication/datasets/telecom_usage.csv"
+    }
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 1 Dimensionality Reduction",
+    "lesson": "L1 What Is Dimensionality and Why It Matters",
+    "files": {
+      "Athleticsdata.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-1-Dimensionality-Reduction/L1-What-Is-Dimensionality-and-Why-It-Matters/datasets/Athleticsdata.csv"
+    }
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 1 Dimensionality Reduction",
+    "lesson": "L2 Redundancy Correlation and Multicollinearity",
+    "files": {
+      "Athleticsdata.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-1-Dimensionality-Reduction/L2-Redundancy-Correlation-and-Multicollinearity/datasets/Athleticsdata.csv"
+    }
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 1 Dimensionality Reduction",
+    "lesson": "L3 When and Why to Reduce",
+    "files": {
+      "Town Insurance.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-1-Dimensionality-Reduction/L3-When-and-Why-to-Reduce/datasets/Town%20Insurance.csv"
+    }
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 2 Principal Component Analysis",
+    "lesson": "L1 PCA Concepts and When to Use It",
+    "files": {
+      "Sporting Goods Sales Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-2-Principal-Component-Analysis/L1-PCA-Concepts-and-When-to-Use-It/datasets/Sporting%20Goods%20Sales%20Data.csv"
+    }
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 2 Principal Component Analysis",
+    "lesson": "L2 Running PCA in Python Scaling Components and Explained Variance",
+    "files": {
+      "Athleticsdata.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-2-Principal-Component-Analysis/L2-Running-PCA-in-Python-Scaling-Components-and-Explained-Variance/datasets/Athleticsdata.csv"
+    }
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 2 Principal Component Analysis",
+    "lesson": "L3 Interpreting Loadings and Scores",
+    "files": {
+      "Athleticsdata.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-2-Principal-Component-Analysis/L3-Interpreting-Loadings-and-Scores/datasets/Athleticsdata.csv"
+    }
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 3 Clustering and Segmentation",
+    "lesson": "L1 Introduction to Clustering and Unsupervised Learning",
+    "files": {
+      "RETAILERS DATA.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-3-Clustering-and-Segmentation/L1-Introduction-to-Clustering-and-Unsupervised-Learning/datasets/RETAILERS%20DATA.csv"
+    }
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 3 Clustering and Segmentation",
+    "lesson": "L2 The K Means Algorithm and Preprocessing",
+    "files": {
+      "RETAILERS DATA.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-3-Clustering-and-Segmentation/L2-The-K-Means-Algorithm-and-Preprocessing/datasets/RETAILERS%20DATA.csv"
+    }
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 3 Clustering and Segmentation",
+    "lesson": "L3 Choosing k and Interpreting Clusters",
+    "files": {
+      "RETAILERS DATA.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-3-Clustering-and-Segmentation/L3-Choosing-k-and-Interpreting-Clusters/datasets/RETAILERS%20DATA.csv"
+    }
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 3 Clustering and Segmentation",
+    "lesson": "L4 Profiling and Acting on Segments and the Limits of K Means",
+    "files": {
+      "Customer Segments.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-3-Clustering-and-Segmentation/L4-Profiling-and-Acting-on-Segments-and-the-Limits-of-K-Means/datasets/Customer%20Segments.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 1 Predictive Modelling Basics",
+    "lesson": "L1 Introduction to Predictive Modelling",
+    "files": {
+      "customer_churn.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-1-Predictive-Modelling-Basics/L1-Introduction-to-Predictive-Modelling/datasets/customer_churn.csv",
+      "housing_loan_applicants.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-1-Predictive-Modelling-Basics/L1-Introduction-to-Predictive-Modelling/datasets/housing_loan_applicants.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 1 Predictive Modelling Basics",
+    "lesson": "L2 Regression versus Classification",
+    "files": {
+      "House Price Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-1-Predictive-Modelling-Basics/L2-Regression-versus-Classification/datasets/House%20Price%20Data.csv",
+      "customer_churn.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-1-Predictive-Modelling-Basics/L2-Regression-versus-Classification/datasets/customer_churn.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L1 Introduction to Multiple Linear Regression",
+    "files": {
+      "Performance Index.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L1-Introduction-to-Multiple-Linear-Regression/datasets/Performance%20Index.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L2 Interpreting Regression Output",
+    "files": {
+      "Performance Index new.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L2-Interpreting-Regression-Output/datasets/Performance%20Index%20new.csv",
+      "Performance Index.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L2-Interpreting-Regression-Output/datasets/Performance%20Index.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L3 Using Categorical Variables",
+    "files": {
+      "RESTAURANT SALES DATA.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L3-Using-Categorical-Variables/datasets/RESTAURANT%20SALES%20DATA.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L4 Regression Diagnostics I Multicollinearity",
+    "files": {
+      "ridge regression data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L4-Regression-Diagnostics-I-Multicollinearity/datasets/ridge%20regression%20data.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L5 Regression Diagnostics II Residuals and Influence",
+    "files": {
+      "Performance Index.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L5-Regression-Diagnostics-II-Residuals-and-Influence/datasets/Performance%20Index.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L6 Principal Component Regression",
+    "files": {
+      "pcrdata.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L6-Principal-Component-Regression/datasets/pcrdata.csv",
+      "pcrdata_test.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L6-Principal-Component-Regression/datasets/pcrdata_test.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L7 Model Selection and Performance",
+    "files": {
+      "Performance Index.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L7-Model-Selection-and-Performance/datasets/Performance%20Index.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 3 Classification Models",
+    "lesson": "L1 Introduction to Binary Logistic Regression I",
+    "files": {
+      "BANK LOAN.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-3-Classification-Models/L1-Introduction-to-Binary-Logistic-Regression-I/datasets/BANK%20LOAN.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 3 Classification Models",
+    "lesson": "L2 Binary Logistic Regression II",
+    "files": {
+      "BANK LOAN.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-3-Classification-Models/L2-Binary-Logistic-Regression-II/datasets/BANK%20LOAN.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 3 Classification Models",
+    "lesson": "L3 Checking Model Performance",
+    "files": {
+      "BANK LOAN.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-3-Classification-Models/L3-Checking-Model-Performance/datasets/BANK%20LOAN.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 3 Classification Models",
+    "lesson": "L5 Multinomial Logistic Regression",
+    "files": {
+      "High School Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-3-Classification-Models/L5-Multinomial-Logistic-Regression/datasets/High%20School%20Data.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 3 Classification Models",
+    "lesson": "L6 Ordinal Logistic Regression",
+    "files": {
+      "Brand Preference Study.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-3-Classification-Models/L6-Ordinal-Logistic-Regression/datasets/Brand%20Preference%20Study.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 4 Model Validation",
+    "lesson": "L1 Validating Regression Models",
+    "files": {
+      "Motor_Claims.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-4-Model-Validation/L1-Validating-Regression-Models/datasets/Motor_Claims.csv"
+    }
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 4 Model Validation",
+    "lesson": "L2 Validating Classification Models",
+    "files": {
+      "BANK LOAN.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-4-Model-Validation/L2-Validating-Classification-Models/datasets/BANK%20LOAN.csv"
     }
   }
 ]

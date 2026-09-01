@@ -1,5 +1,6 @@
 [
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 1 Python for Data Analysis",
     "lesson": "L1 Python Environment and First Programs",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L1-Python-Environment-and-First-Programs/datasets",
@@ -8,6 +9,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 1 Python for Data Analysis",
     "lesson": "L3 Libraries and pandas Data Structures",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L3-Libraries-and-pandas-Data-Structures/datasets",
@@ -16,6 +18,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 1 Python for Data Analysis",
     "lesson": "L4 Numeric and String Functions",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L4-Numeric-and-String-Functions/datasets",
@@ -24,22 +27,25 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 1 Python for Data Analysis",
-    "lesson": "L5 Control Flow - Conditionals and Loops",
+    "lesson": "L5 Control Flow Conditionals and Loops",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L5-Control-Flow-Conditionals-and-Loops/datasets",
     "files": [
       "student_loops.csv"
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 1 Python for Data Analysis",
-    "lesson": "L6 Files, Directories, Dates and Times",
+    "lesson": "L6 Files Directories Dates and Times",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-1-Python-for-Data-Analysis/L6-Files-Directories-Dates-and-Times/datasets",
     "files": [
       "filesystem_operations.csv"
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L1 Importing Data",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L1-Importing-Data/datasets",
@@ -52,6 +58,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L2 Checking Data Features and Modifying Data",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L2-Checking-Data-Features-and-Modifying-Data/datasets",
@@ -60,6 +67,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L3 Creating Subsets and Sorting Data",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L3-Creating-Subsets-and-Sorting-Data/datasets",
@@ -68,6 +76,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L4 Merging and Aggregating",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L4-Merging-and-Aggregating/datasets",
@@ -79,6 +88,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L5 Handling Missing Values",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L5-Handling-Missing-Values/datasets",
@@ -88,6 +98,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 2 Data Management",
     "lesson": "L6 Building an ETL Workflow",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-2-Data-Management/L6-Building-an-ETL-Workflow/datasets",
@@ -96,6 +107,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 3 Descriptive Statistics",
     "lesson": "L1 Descriptive Statistics in Python",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L1-Descriptive-Statistics-in-Python/datasets",
@@ -104,6 +116,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 3 Descriptive Statistics",
     "lesson": "L2 Beyond Mean and Variance",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L2-Beyond-Mean-and-Variance/datasets",
@@ -112,6 +125,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 3 Descriptive Statistics",
     "lesson": "L3 Bivariate Relationships",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L3-Bivariate-Relationships/datasets",
@@ -120,6 +134,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 3 Descriptive Statistics",
     "lesson": "L4 Automated EDA Libraries",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L4-Automated-EDA-Libraries/datasets",
@@ -128,6 +143,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 3 Descriptive Statistics",
     "lesson": "L5 Sampling Methods for Research",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-3-Descriptive-Statistics/L5-Sampling-Methods-for-Research/datasets",
@@ -136,6 +152,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
     "lesson": "L1 Foundations of Statistical Inference",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L1-Foundations-of-Statistical-Inference/datasets",
@@ -144,6 +161,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
     "lesson": "L2 Checking Assumptions",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L2-Checking-Assumptions/datasets",
@@ -153,8 +171,9 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
-    "lesson": "L3 Comparing Means with t-tests",
+    "lesson": "L3 Comparing Means with t tests",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L3-Comparing-Means-with-t-tests/datasets",
     "files": [
       "INDEPENDENT SAMPLES t TEST.csv",
@@ -163,6 +182,7 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
     "lesson": "L4 Analysis of Variance",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L4-Analysis-of-Variance/datasets",
@@ -172,8 +192,9 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
-    "lesson": "L5 Non-Parametric Tests",
+    "lesson": "L5 Non Parametric Tests",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L5-Non-Parametric-Tests/datasets",
     "files": [
       "Kruskal Wallis Test.csv",
@@ -182,12 +203,324 @@
     ]
   },
   {
+    "part": "Part 1 Data Analytics Foundation",
     "unit": "Unit 4 Inferential Statistics",
     "lesson": "L6 Choosing the Right Test and Categorical Association",
     "repo_path": "Part-1-Data-Analytics-Foundation/Unit-4-Inferential-Statistics/L6-Choosing-the-Right-Test-and-Categorical-Association/datasets",
     "files": [
       "Correlation test.csv",
       "chi square test of association.csv"
+    ]
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 1 Introduction to Data Visualisation",
+    "lesson": "L1 Why Visualisation Matters and Choosing the Right Chart",
+    "repo_path": "Part-2-Data-Visualisation/Unit-1-Introduction-to-Data-Visualisation/L1-Why-Visualisation-Matters-and-Choosing-the-Right-Chart/datasets",
+    "files": [
+      "monthly_sales.csv"
+    ]
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 1 Introduction to Data Visualisation",
+    "lesson": "L2 Design Principles for Clarity and Credibility",
+    "repo_path": "Part-2-Data-Visualisation/Unit-1-Introduction-to-Data-Visualisation/L2-Design-Principles-for-Clarity-and-Credibility/datasets",
+    "files": [
+      "company_sales.csv"
+    ]
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 1 Introduction to Data Visualisation",
+    "lesson": "L3 Avoiding Misleading and Low Quality Visuals",
+    "repo_path": "Part-2-Data-Visualisation/Unit-1-Introduction-to-Data-Visualisation/L3-Avoiding-Misleading-and-Low-Quality-Visuals/datasets",
+    "files": [
+      "visualization_survey.csv"
+    ]
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 1 Introduction to Data Visualisation",
+    "lesson": "L4 Data Storytelling and Communicating Insight",
+    "repo_path": "Part-2-Data-Visualisation/Unit-1-Introduction-to-Data-Visualisation/L4-Data-Storytelling-and-Communicating-Insight/datasets",
+    "files": [
+      "appointment_cancellations.csv"
+    ]
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 2 Data Visualisation Using Python",
+    "lesson": "L1 Categorical and Composition Charts",
+    "repo_path": "Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L1-Categorical-and-Composition-Charts/datasets",
+    "files": [
+      "telecom_profile.csv"
+    ]
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 2 Data Visualisation Using Python",
+    "lesson": "L2 Distribution Plots",
+    "repo_path": "Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L2-Distribution-Plots/datasets",
+    "files": [
+      "telecom_usage.csv"
+    ]
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 2 Data Visualisation Using Python",
+    "lesson": "L3 Visualising Relationships",
+    "repo_path": "Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L3-Visualising-Relationships/datasets",
+    "files": [
+      "employee_proficiency.csv"
+    ]
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "unit": "Unit 2 Data Visualisation Using Python",
+    "lesson": "L4 Chart Ready Summaries and Formatting for Communication",
+    "repo_path": "Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L4-Chart-Ready-Summaries-and-Formatting-for-Communication/datasets",
+    "files": [
+      "meter_readings.csv",
+      "telecom_usage.csv"
+    ]
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 1 Dimensionality Reduction",
+    "lesson": "L1 What Is Dimensionality and Why It Matters",
+    "repo_path": "Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-1-Dimensionality-Reduction/L1-What-Is-Dimensionality-and-Why-It-Matters/datasets",
+    "files": [
+      "Athleticsdata.csv"
+    ]
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 1 Dimensionality Reduction",
+    "lesson": "L2 Redundancy Correlation and Multicollinearity",
+    "repo_path": "Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-1-Dimensionality-Reduction/L2-Redundancy-Correlation-and-Multicollinearity/datasets",
+    "files": [
+      "Athleticsdata.csv"
+    ]
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 1 Dimensionality Reduction",
+    "lesson": "L3 When and Why to Reduce",
+    "repo_path": "Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-1-Dimensionality-Reduction/L3-When-and-Why-to-Reduce/datasets",
+    "files": [
+      "Town Insurance.csv"
+    ]
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 2 Principal Component Analysis",
+    "lesson": "L1 PCA Concepts and When to Use It",
+    "repo_path": "Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-2-Principal-Component-Analysis/L1-PCA-Concepts-and-When-to-Use-It/datasets",
+    "files": [
+      "Sporting Goods Sales Data.csv"
+    ]
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 2 Principal Component Analysis",
+    "lesson": "L2 Running PCA in Python Scaling Components and Explained Variance",
+    "repo_path": "Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-2-Principal-Component-Analysis/L2-Running-PCA-in-Python-Scaling-Components-and-Explained-Variance/datasets",
+    "files": [
+      "Athleticsdata.csv"
+    ]
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 2 Principal Component Analysis",
+    "lesson": "L3 Interpreting Loadings and Scores",
+    "repo_path": "Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-2-Principal-Component-Analysis/L3-Interpreting-Loadings-and-Scores/datasets",
+    "files": [
+      "Athleticsdata.csv"
+    ]
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 3 Clustering and Segmentation",
+    "lesson": "L1 Introduction to Clustering and Unsupervised Learning",
+    "repo_path": "Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-3-Clustering-and-Segmentation/L1-Introduction-to-Clustering-and-Unsupervised-Learning/datasets",
+    "files": [
+      "RETAILERS DATA.csv"
+    ]
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 3 Clustering and Segmentation",
+    "lesson": "L2 The K Means Algorithm and Preprocessing",
+    "repo_path": "Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-3-Clustering-and-Segmentation/L2-The-K-Means-Algorithm-and-Preprocessing/datasets",
+    "files": [
+      "RETAILERS DATA.csv"
+    ]
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 3 Clustering and Segmentation",
+    "lesson": "L3 Choosing k and Interpreting Clusters",
+    "repo_path": "Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-3-Clustering-and-Segmentation/L3-Choosing-k-and-Interpreting-Clusters/datasets",
+    "files": [
+      "RETAILERS DATA.csv"
+    ]
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "unit": "Unit 3 Clustering and Segmentation",
+    "lesson": "L4 Profiling and Acting on Segments and the Limits of K Means",
+    "repo_path": "Part-3-Data-Reduction-and-Unsupervised-Analytics/Unit-3-Clustering-and-Segmentation/L4-Profiling-and-Acting-on-Segments-and-the-Limits-of-K-Means/datasets",
+    "files": [
+      "Customer Segments.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 1 Predictive Modelling Basics",
+    "lesson": "L1 Introduction to Predictive Modelling",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-1-Predictive-Modelling-Basics/L1-Introduction-to-Predictive-Modelling/datasets",
+    "files": [
+      "customer_churn.csv",
+      "housing_loan_applicants.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 1 Predictive Modelling Basics",
+    "lesson": "L2 Regression versus Classification",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-1-Predictive-Modelling-Basics/L2-Regression-versus-Classification/datasets",
+    "files": [
+      "House Price Data.csv",
+      "customer_churn.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L1 Introduction to Multiple Linear Regression",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L1-Introduction-to-Multiple-Linear-Regression/datasets",
+    "files": [
+      "Performance Index.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L2 Interpreting Regression Output",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L2-Interpreting-Regression-Output/datasets",
+    "files": [
+      "Performance Index new.csv",
+      "Performance Index.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L3 Using Categorical Variables",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L3-Using-Categorical-Variables/datasets",
+    "files": [
+      "RESTAURANT SALES DATA.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L4 Regression Diagnostics I Multicollinearity",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L4-Regression-Diagnostics-I-Multicollinearity/datasets",
+    "files": [
+      "ridge regression data.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L5 Regression Diagnostics II Residuals and Influence",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L5-Regression-Diagnostics-II-Residuals-and-Influence/datasets",
+    "files": [
+      "Performance Index.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L6 Principal Component Regression",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L6-Principal-Component-Regression/datasets",
+    "files": [
+      "pcrdata.csv",
+      "pcrdata_test.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 2 Linear Regression",
+    "lesson": "L7 Model Selection and Performance",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-2-Linear-Regression/L7-Model-Selection-and-Performance/datasets",
+    "files": [
+      "Performance Index.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 3 Classification Models",
+    "lesson": "L1 Introduction to Binary Logistic Regression I",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-3-Classification-Models/L1-Introduction-to-Binary-Logistic-Regression-I/datasets",
+    "files": [
+      "BANK LOAN.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 3 Classification Models",
+    "lesson": "L2 Binary Logistic Regression II",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-3-Classification-Models/L2-Binary-Logistic-Regression-II/datasets",
+    "files": [
+      "BANK LOAN.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 3 Classification Models",
+    "lesson": "L3 Checking Model Performance",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-3-Classification-Models/L3-Checking-Model-Performance/datasets",
+    "files": [
+      "BANK LOAN.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 3 Classification Models",
+    "lesson": "L5 Multinomial Logistic Regression",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-3-Classification-Models/L5-Multinomial-Logistic-Regression/datasets",
+    "files": [
+      "High School Data.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 3 Classification Models",
+    "lesson": "L6 Ordinal Logistic Regression",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-3-Classification-Models/L6-Ordinal-Logistic-Regression/datasets",
+    "files": [
+      "Brand Preference Study.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 4 Model Validation",
+    "lesson": "L1 Validating Regression Models",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-4-Model-Validation/L1-Validating-Regression-Models/datasets",
+    "files": [
+      "Motor_Claims.csv"
+    ]
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "unit": "Unit 4 Model Validation",
+    "lesson": "L2 Validating Classification Models",
+    "repo_path": "Part-4-Predictive-Modelling/Unit-4-Model-Validation/L2-Validating-Classification-Models/datasets",
+    "files": [
+      "BANK LOAN.csv"
     ]
   }
 ]

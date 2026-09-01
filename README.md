@@ -4,12 +4,12 @@ Practice datasets for the DSI Certified Professional Data Analyst (CPDA) program
 
 This is a v2 restructure of the original [cpda-datasets](https://github.com/datascience-institute/cpda-datasets) repository: the same datasets are now grouped per lesson (matching the current lesson folder names) rather than per unit, so each lesson's practice materials can link directly to only the file(s) it uses.
 
-Currently covers Part 1 (Data Analytics Foundation), Units 1-4. Other Parts may be added later.
+Covers Parts 1-4. Two Part 4 lessons carry no dataset (L3 Overfitting, Underfitting and the Bias-Variance Trade-off, and L4 Generalised Linear Modelling), as does Part 1 Unit 1 L2 Core Data Types and Structures; these are taught without a data file.
 
 ## Structure
 
 ```
-Part-1-Data-Analytics-Foundation/
+Part-<N>-<Part-Title>/
   Unit-<N>-<Unit-Title>/
     L<N>-<Lesson-Title>/
       datasets/
@@ -25,13 +25,15 @@ df = pd.read_csv("<raw file URL from the lesson>")
 
 ## Lessons and datasets
 
+## Part 1 Data Analytics Foundation
+
 ### Unit 1 Python for Data Analysis
 
 - **L1 Python Environment and First Programs** — `python_installation_survey.csv`
 - **L3 Libraries and pandas Data Structures** — `student_profiles.csv`
 - **L4 Numeric and String Functions** — `numeric_operations.csv`
-- **L5 Control Flow - Conditionals and Loops** — `student_loops.csv`
-- **L6 Files, Directories, Dates and Times** — `filesystem_operations.csv`
+- **L5 Control Flow Conditionals and Loops** — `student_loops.csv`
+- **L6 Files Directories Dates and Times** — `filesystem_operations.csv`
 
 ### Unit 2 Data Management
 
@@ -54,7 +56,74 @@ df = pd.read_csv("<raw file URL from the lesson>")
 
 - **L1 Foundations of Statistical Inference** — `Normality Testing Data.csv`
 - **L2 Checking Assumptions** — `F test for 2 variances.csv`, `Normality Testing Data.csv`
-- **L3 Comparing Means with t-tests** — `INDEPENDENT SAMPLES t TEST.csv`, `ONE SAMPLE t TEST.csv`, `PAIRED t TEST.csv`
+- **L3 Comparing Means with t tests** — `INDEPENDENT SAMPLES t TEST.csv`, `ONE SAMPLE t TEST.csv`, `PAIRED t TEST.csv`
 - **L4 Analysis of Variance** — `One way anova.csv`, `Two way anova.csv`
-- **L5 Non-Parametric Tests** — `Kruskal Wallis Test.csv`, `Mann Whitney test.csv`, `Wilcoxon Signed Rank test for paired data.csv`
+- **L5 Non Parametric Tests** — `Kruskal Wallis Test.csv`, `Mann Whitney test.csv`, `Wilcoxon Signed Rank test for paired data.csv`
 - **L6 Choosing the Right Test and Categorical Association** — `Correlation test.csv`, `chi square test of association.csv`
+
+## Part 2 Data Visualisation
+
+### Unit 1 Introduction to Data Visualisation
+
+- **L1 Why Visualisation Matters and Choosing the Right Chart** — `monthly_sales.csv`
+- **L2 Design Principles for Clarity and Credibility** — `company_sales.csv`
+- **L3 Avoiding Misleading and Low Quality Visuals** — `visualization_survey.csv`
+- **L4 Data Storytelling and Communicating Insight** — `appointment_cancellations.csv`
+
+### Unit 2 Data Visualisation Using Python
+
+- **L1 Categorical and Composition Charts** — `telecom_profile.csv`
+- **L2 Distribution Plots** — `telecom_usage.csv`
+- **L3 Visualising Relationships** — `employee_proficiency.csv`
+- **L4 Chart Ready Summaries and Formatting for Communication** — `meter_readings.csv`, `telecom_usage.csv`
+
+## Part 3 Data Reduction and Unsupervised Analytics
+
+### Unit 1 Dimensionality Reduction
+
+- **L1 What Is Dimensionality and Why It Matters** — `Athleticsdata.csv`
+- **L2 Redundancy Correlation and Multicollinearity** — `Athleticsdata.csv`
+- **L3 When and Why to Reduce** — `Town Insurance.csv`
+
+### Unit 2 Principal Component Analysis
+
+- **L1 PCA Concepts and When to Use It** — `Sporting Goods Sales Data.csv`
+- **L2 Running PCA in Python Scaling Components and Explained Variance** — `Athleticsdata.csv`
+- **L3 Interpreting Loadings and Scores** — `Athleticsdata.csv`
+
+### Unit 3 Clustering and Segmentation
+
+- **L1 Introduction to Clustering and Unsupervised Learning** — `RETAILERS DATA.csv`
+- **L2 The K Means Algorithm and Preprocessing** — `RETAILERS DATA.csv`
+- **L3 Choosing k and Interpreting Clusters** — `RETAILERS DATA.csv`
+- **L4 Profiling and Acting on Segments and the Limits of K Means** — `Customer Segments.csv`
+
+## Part 4 Predictive Modelling
+
+### Unit 1 Predictive Modelling Basics
+
+- **L1 Introduction to Predictive Modelling** — `customer_churn.csv`, `housing_loan_applicants.csv`
+- **L2 Regression versus Classification** — `House Price Data.csv`, `customer_churn.csv`
+
+### Unit 2 Linear Regression
+
+- **L1 Introduction to Multiple Linear Regression** — `Performance Index.csv`
+- **L2 Interpreting Regression Output** — `Performance Index new.csv`, `Performance Index.csv`
+- **L3 Using Categorical Variables** — `RESTAURANT SALES DATA.csv`
+- **L4 Regression Diagnostics I Multicollinearity** — `ridge regression data.csv`
+- **L5 Regression Diagnostics II Residuals and Influence** — `Performance Index.csv`
+- **L6 Principal Component Regression** — `pcrdata.csv`, `pcrdata_test.csv`
+- **L7 Model Selection and Performance** — `Performance Index.csv`
+
+### Unit 3 Classification Models
+
+- **L1 Introduction to Binary Logistic Regression I** — `BANK LOAN.csv`
+- **L2 Binary Logistic Regression II** — `BANK LOAN.csv`
+- **L3 Checking Model Performance** — `BANK LOAN.csv`
+- **L5 Multinomial Logistic Regression** — `High School Data.csv`
+- **L6 Ordinal Logistic Regression** — `Brand Preference Study.csv`
+
+### Unit 4 Model Validation
+
+- **L1 Validating Regression Models** — `Motor_Claims.csv`
+- **L2 Validating Classification Models** — `BANK LOAN.csv`
