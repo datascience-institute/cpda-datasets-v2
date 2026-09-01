@@ -281,7 +281,6 @@
     "lesson": "L4 Chart Ready Summaries and Formatting for Communication",
     "repo_path": "Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L4-Chart-Ready-Summaries-and-Formatting-for-Communication/datasets",
     "files": [
-      "meter_readings.csv",
       "telecom_usage.csv"
     ]
   },

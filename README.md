@@ -75,7 +75,7 @@ df = pd.read_csv("<raw file URL from the lesson>")
 - **L1 Categorical and Composition Charts** — `telecom_profile.csv`
 - **L2 Distribution Plots** — `telecom_usage.csv`
 - **L3 Visualising Relationships** — `employee_proficiency.csv`
-- **L4 Chart Ready Summaries and Formatting for Communication** — `meter_readings.csv`, `telecom_usage.csv`
+- **L4 Chart Ready Summaries and Formatting for Communication** — `telecom_usage.csv`
 
 ## Part 3 Data Reduction and Unsupervised Analytics
 

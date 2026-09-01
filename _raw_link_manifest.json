@@ -251,7 +251,6 @@
     "unit": "Unit 2 Data Visualisation Using Python",
     "lesson": "L4 Chart Ready Summaries and Formatting for Communication",
     "files": {
-      "meter_readings.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L4-Chart-Ready-Summaries-and-Formatting-for-Communication/datasets/meter_readings.csv",
       "telecom_usage.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Unit-2-Data-Visualisation-Using-Python/L4-Chart-Ready-Summaries-and-Formatting-for-Communication/datasets/telecom_usage.csv"
     }
   },
