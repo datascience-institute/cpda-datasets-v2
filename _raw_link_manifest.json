@@ -465,5 +465,106 @@
     "files": {
       "BANK LOAN.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Unit-4-Model-Validation/L2-Validating-Classification-Models/datasets/BANK%20LOAN.csv"
     }
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "Banking Customer Churn and Credit Scores",
+    "files": {
+      "Bank Churn.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Banking-Customer-Churn-and-Credit-Scores/Bank%20Churn.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Banking-Customer-Churn-and-Credit-Scores/Case-Study-Banking-Customer-Churn-and-Credit-Scores.zip"
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "FMCG Business Analytics",
+    "files": {
+      "CUST_PROFILE.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-FMCG-Business-Analytics/CUST_PROFILE.csv",
+      "NPSDATA.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-FMCG-Business-Analytics/NPSDATA.csv",
+      "NSVDATA.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-FMCG-Business-Analytics/NSVDATA.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-FMCG-Business-Analytics/Case-Study-FMCG-Business-Analytics.zip"
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "FMCG NPS Study",
+    "files": {
+      "CUST_PROFILE.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-FMCG-NPS-Study/CUST_PROFILE.csv",
+      "NPSDATA.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-FMCG-NPS-Study/NPSDATA.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-FMCG-NPS-Study/Case-Study-FMCG-NPS-Study.zip"
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "HR Employee Engagement",
+    "files": {
+      "EMPLOYEE ENGAGEMENT DATA.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-HR-Employee-Engagement/EMPLOYEE%20ENGAGEMENT%20DATA.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-HR-Employee-Engagement/Case-Study-HR-Employee-Engagement.zip"
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "Hospitality Hotel Bookings and Revenue",
+    "files": {
+      "Hospitality_Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Hospitality-Hotel-Bookings-and-Revenue/Hospitality_Data.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Hospitality-Hotel-Bookings-and-Revenue/Case-Study-Hospitality-Hotel-Bookings-and-Revenue.zip"
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "Pharma Pain Relief Trial",
+    "files": {
+      "VAS DATA.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Pharma-Pain-Relief-Trial/VAS%20DATA.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Pharma-Pain-Relief-Trial/Case-Study-Pharma-Pain-Relief-Trial.zip"
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "case_study": "Pizza Delivery Performance",
+    "files": {
+      "pizzadata.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Case-Studies/Case-Study-Pizza-Delivery-Performance/pizzadata.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Case-Studies/Case-Study-Pizza-Delivery-Performance/Case-Study-Pizza-Delivery-Performance.zip"
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "case_study": "Boston House Prices",
+    "files": {
+      "Housing Prices.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-Boston-House-Prices/Housing%20Prices.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-Boston-House-Prices/Case-Study-Boston-House-Prices.zip"
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "case_study": "Food Delivery Time and Delay Prediction",
+    "files": {
+      "pizzadata.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-Food-Delivery-Time-and-Delay-Prediction/pizzadata.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-Food-Delivery-Time-and-Delay-Prediction/Case-Study-Food-Delivery-Time-and-Delay-Prediction.zip"
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "case_study": "ICU Mortality",
+    "files": {
+      "ICU Mortality.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-ICU-Mortality/ICU%20Mortality.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-ICU-Mortality/Case-Study-ICU-Mortality.zip"
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "case_study": "Skin Clinic Campaign Response",
+    "files": {
+      "Purchase Data 1.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-Skin-Clinic-Campaign-Response/Purchase%20Data%201.csv",
+      "Purchase Data 2.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-Skin-Clinic-Campaign-Response/Purchase%20Data%202.csv",
+      "Response Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-Skin-Clinic-Campaign-Response/Response%20Data.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-Skin-Clinic-Campaign-Response/Case-Study-Skin-Clinic-Campaign-Response.zip"
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "case_study": "Used Car Selling Price",
+    "files": {
+      "Vehicle Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-Used-Car-Selling-Price/Vehicle%20Data.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-4-Predictive-Modelling/Case-Studies/Case-Study-Used-Car-Selling-Price/Case-Study-Used-Car-Selling-Price.zip"
   }
 ]

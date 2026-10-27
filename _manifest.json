@@ -521,5 +521,118 @@
     "files": [
       "BANK LOAN.csv"
     ]
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "Banking Customer Churn and Credit Scores",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Banking-Customer-Churn-and-Credit-Scores",
+    "files": [
+      "Bank Churn.csv"
+    ],
+    "zip": "Case-Study-Banking-Customer-Churn-and-Credit-Scores.zip"
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "FMCG Business Analytics",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-FMCG-Business-Analytics",
+    "files": [
+      "CUST_PROFILE.csv",
+      "NPSDATA.csv",
+      "NSVDATA.csv"
+    ],
+    "zip": "Case-Study-FMCG-Business-Analytics.zip"
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "FMCG NPS Study",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-FMCG-NPS-Study",
+    "files": [
+      "CUST_PROFILE.csv",
+      "NPSDATA.csv"
+    ],
+    "zip": "Case-Study-FMCG-NPS-Study.zip"
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "HR Employee Engagement",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-HR-Employee-Engagement",
+    "files": [
+      "EMPLOYEE ENGAGEMENT DATA.csv"
+    ],
+    "zip": "Case-Study-HR-Employee-Engagement.zip"
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "Hospitality Hotel Bookings and Revenue",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Hospitality-Hotel-Bookings-and-Revenue",
+    "files": [
+      "Hospitality_Data.csv"
+    ],
+    "zip": "Case-Study-Hospitality-Hotel-Bookings-and-Revenue.zip"
+  },
+  {
+    "part": "Part 1 Data Analytics Foundation",
+    "case_study": "Pharma Pain Relief Trial",
+    "repo_path": "Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Pharma-Pain-Relief-Trial",
+    "files": [
+      "VAS DATA.csv"
+    ],
+    "zip": "Case-Study-Pharma-Pain-Relief-Trial.zip"
+  },
+  {
+    "part": "Part 2 Data Visualisation",
+    "case_study": "Pizza Delivery Performance",
+    "repo_path": "Part-2-Data-Visualisation/Case-Studies/Case-Study-Pizza-Delivery-Performance",
+    "files": [
+      "pizzadata.csv"
+    ],
+    "zip": "Case-Study-Pizza-Delivery-Performance.zip"
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "case_study": "Boston House Prices",
+    "repo_path": "Part-4-Predictive-Modelling/Case-Studies/Case-Study-Boston-House-Prices",
+    "files": [
+      "Housing Prices.csv"
+    ],
+    "zip": "Case-Study-Boston-House-Prices.zip"
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "case_study": "Food Delivery Time and Delay Prediction",
+    "repo_path": "Part-4-Predictive-Modelling/Case-Studies/Case-Study-Food-Delivery-Time-and-Delay-Prediction",
+    "files": [
+      "pizzadata.csv"
+    ],
+    "zip": "Case-Study-Food-Delivery-Time-and-Delay-Prediction.zip"
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "case_study": "ICU Mortality",
+    "repo_path": "Part-4-Predictive-Modelling/Case-Studies/Case-Study-ICU-Mortality",
+    "files": [
+      "ICU Mortality.csv"
+    ],
+    "zip": "Case-Study-ICU-Mortality.zip"
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "case_study": "Skin Clinic Campaign Response",
+    "repo_path": "Part-4-Predictive-Modelling/Case-Studies/Case-Study-Skin-Clinic-Campaign-Response",
+    "files": [
+      "Purchase Data 1.csv",
+      "Purchase Data 2.csv",
+      "Response Data.csv"
+    ],
+    "zip": "Case-Study-Skin-Clinic-Campaign-Response.zip"
+  },
+  {
+    "part": "Part 4 Predictive Modelling",
+    "case_study": "Used Car Selling Price",
+    "repo_path": "Part-4-Predictive-Modelling/Case-Studies/Case-Study-Used-Car-Selling-Price",
+    "files": [
+      "Vehicle Data.csv"
+    ],
+    "zip": "Case-Study-Used-Car-Selling-Price.zip"
   }
 ]

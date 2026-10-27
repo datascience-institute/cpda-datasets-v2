@@ -14,6 +14,10 @@ Part-<N>-<Part-Title>/
     L<N>-<Lesson-Title>/
       datasets/
         <dataset files used by that lesson's practice questions>
+  Case-Studies/
+    Case-Study-<Title>/
+      <dataset files used by that case study>
+      Case-Study-<Title>.zip
 ```
 
 ## Using a dataset directly (e.g. in Google Colab)
@@ -127,3 +131,29 @@ df = pd.read_csv("<raw file URL from the lesson>")
 
 - **L1 Validating Regression Models** — `Motor_Claims.csv`
 - **L2 Validating Classification Models** — `BANK LOAN.csv`
+
+## Case study datasets
+
+Each case study has its own folder holding the dataset files and one `.zip` of those files. Download the zip, unzip it, and place the case study notebook in the unzipped folder: the notebook reads each file by its name.
+
+### Part 1 Data Analytics Foundation
+
+- **Banking Customer Churn and Credit Scores** — `Bank Churn.csv` ([zip](Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Banking-Customer-Churn-and-Credit-Scores/Case-Study-Banking-Customer-Churn-and-Credit-Scores.zip))
+- **FMCG Business Analytics** — `CUST_PROFILE.csv`, `NPSDATA.csv`, `NSVDATA.csv` ([zip](Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-FMCG-Business-Analytics/Case-Study-FMCG-Business-Analytics.zip))
+- **FMCG NPS Study** — `CUST_PROFILE.csv`, `NPSDATA.csv` ([zip](Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-FMCG-NPS-Study/Case-Study-FMCG-NPS-Study.zip))
+- **HR Employee Engagement** — `EMPLOYEE ENGAGEMENT DATA.csv` ([zip](Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-HR-Employee-Engagement/Case-Study-HR-Employee-Engagement.zip))
+- **Hospitality Hotel Bookings and Revenue** — `Hospitality_Data.csv` ([zip](Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Hospitality-Hotel-Bookings-and-Revenue/Case-Study-Hospitality-Hotel-Bookings-and-Revenue.zip))
+- **Pharma Pain Relief Trial** — `VAS DATA.csv` ([zip](Part-1-Data-Analytics-Foundation/Case-Studies/Case-Study-Pharma-Pain-Relief-Trial/Case-Study-Pharma-Pain-Relief-Trial.zip))
+
+### Part 2 Data Visualisation
+
+- **Car Data Visualisation** — no dataset file: the notebook loads the built-in `mtcars` dataset with `pydataset`
+- **Pizza Delivery Performance** — `pizzadata.csv` ([zip](Part-2-Data-Visualisation/Case-Studies/Case-Study-Pizza-Delivery-Performance/Case-Study-Pizza-Delivery-Performance.zip))
+
+### Part 4 Predictive Modelling
+
+- **Boston House Prices** — `Housing Prices.csv` ([zip](Part-4-Predictive-Modelling/Case-Studies/Case-Study-Boston-House-Prices/Case-Study-Boston-House-Prices.zip))
+- **Food Delivery Time and Delay Prediction** — `pizzadata.csv` ([zip](Part-4-Predictive-Modelling/Case-Studies/Case-Study-Food-Delivery-Time-and-Delay-Prediction/Case-Study-Food-Delivery-Time-and-Delay-Prediction.zip))
+- **ICU Mortality** — `ICU Mortality.csv` ([zip](Part-4-Predictive-Modelling/Case-Studies/Case-Study-ICU-Mortality/Case-Study-ICU-Mortality.zip))
+- **Skin Clinic Campaign Response** — `Purchase Data 1.csv`, `Purchase Data 2.csv`, `Response Data.csv` ([zip](Part-4-Predictive-Modelling/Case-Studies/Case-Study-Skin-Clinic-Campaign-Response/Case-Study-Skin-Clinic-Campaign-Response.zip))
+- **Used Car Selling Price** — `Vehicle Data.csv` ([zip](Part-4-Predictive-Modelling/Case-Studies/Case-Study-Used-Car-Selling-Price/Case-Study-Used-Car-Selling-Price.zip))
