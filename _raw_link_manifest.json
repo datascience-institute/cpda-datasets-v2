@@ -526,6 +526,22 @@
     "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-2-Data-Visualisation/Case-Studies/Case-Study-Pizza-Delivery-Performance/Case-Study-Pizza-Delivery-Performance.zip"
   },
   {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "case_study": "Retail Customer Segmentation",
+    "files": {
+      "Customer Segments.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Case-Studies/Case-Study-Retail-Customer-Segmentation/Customer%20Segments.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Case-Studies/Case-Study-Retail-Customer-Segmentation/Case-Study-Retail-Customer-Segmentation.zip"
+  },
+  {
+    "part": "Part 3 Data Reduction and Unsupervised Analytics",
+    "case_study": "Sporting Goods Sales PCA",
+    "files": {
+      "Sporting Goods Sales Data.csv": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Case-Studies/Case-Study-Sporting-Goods-Sales-PCA/Sporting%20Goods%20Sales%20Data.csv"
+    },
+    "zip": "https://raw.githubusercontent.com/datascience-institute/cpda-datasets-v2/main/Part-3-Data-Reduction-and-Unsupervised-Analytics/Case-Studies/Case-Study-Sporting-Goods-Sales-PCA/Case-Study-Sporting-Goods-Sales-PCA.zip"
+  },
+  {
     "part": "Part 4 Predictive Modelling",
     "case_study": "Boston House Prices",
     "files": {

@@ -150,6 +150,11 @@ Each case study has its own folder holding the dataset files and one `.zip` of t
 - **Car Data Visualisation** — no dataset file: the notebook loads the built-in `mtcars` dataset with `pydataset`
 - **Pizza Delivery Performance** — `pizzadata.csv` ([zip](Part-2-Data-Visualisation/Case-Studies/Case-Study-Pizza-Delivery-Performance/Case-Study-Pizza-Delivery-Performance.zip))
 
+### Part 3 Data Reduction and Unsupervised Analytics
+
+- **Retail Customer Segmentation** — `Customer Segments.csv` ([zip](Part-3-Data-Reduction-and-Unsupervised-Analytics/Case-Studies/Case-Study-Retail-Customer-Segmentation/Case-Study-Retail-Customer-Segmentation.zip))
+- **Sporting Goods Sales PCA** — `Sporting Goods Sales Data.csv` ([zip](Part-3-Data-Reduction-and-Unsupervised-Analytics/Case-Studies/Case-Study-Sporting-Goods-Sales-PCA/Case-Study-Sporting-Goods-Sales-PCA.zip))
+
 ### Part 4 Predictive Modelling
 
 - **Boston House Prices** — `Housing Prices.csv` ([zip](Part-4-Predictive-Modelling/Case-Studies/Case-Study-Boston-House-Prices/Case-Study-Boston-House-Prices.zip))
